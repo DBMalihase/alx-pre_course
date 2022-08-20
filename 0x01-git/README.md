@@ -1,1 +1,1 @@
-How to updating READMe.md file on Github
+How to update READMe.md file on Github
